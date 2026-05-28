@@ -7,6 +7,12 @@
 
 自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
 
+## 赞助商
+
+[![Swiftproxy - 全球高质量纯净住宅 IP](assets/swiftproxy-github-cn.png)](https://www.swiftproxy.net/?ref=awsbuilderid)
+
+[Swiftproxy](https://www.swiftproxy.net/?ref=awsbuilderid) — 8000万+高质量住宅 IP 覆盖 190+ 国家，连接稳定高匿名，支持自动化、数据采集与云业务场景，动态流量不过期，支持免费测试。九折优惠码：`PROXY90`
+
 ## 什么是 AWS Builder ID
 
 AWS Builder ID 是亚马逊提供的免费开发者账号，可用于访问 Amazon Q、CodeWhisperer、Kiro 等 AI 编程工具，无需绑定信用卡。
